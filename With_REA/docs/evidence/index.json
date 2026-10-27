@@ -1,0 +1,157 @@
+{
+  "installer": {
+    "evidence_id": "ev_97d55f8c16a4291b052638d9a1d7a2b7bd5a1d8afc4e4dcbb335c705a88ae645",
+    "operation": "inspect_managed_artifact",
+    "parameters": {
+      "path": "/home/jsh/rea-sticky-memo/Microsoft Sticky Notes Installer.exe"
+    },
+    "limitations": [
+      "Static inspection did not load the assembly, resolve dependencies through a CLR, decompile C#, or execute target code."
+    ]
+  },
+  "membersSummary": {
+    "evidence_id": "ev_e07261bb35821d9d8df3f64a99591795c0e8e65ba7aeec253f12df4ae3a8f42f",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+    "parameters": {
+      "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+      "view": {
+        "kind": "summary"
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "types": {
+    "evidence_id": "ev_ae98591baf6b164285f28f1f9b420ddfa9e88b6da6db19d34c787729f893c171",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+    "parameters": {
+      "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+      "view": {
+        "kind": "managed-members",
+        "collection": "types",
+        "offset": 0,
+        "limit": 400
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "strings": {
+    "evidence_id": "ev_4557573cb1b92ca14b230526495e8896bbca687f4375121f5d0b952d4e386ecd",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+    "parameters": {
+      "parent_evidence_id": "ev_5b1c0a14837e7fc9686c83e72e8733a636c077c8fab978401f3d20e45108e36f",
+      "view": {
+        "kind": "managed-members",
+        "collection": "user_strings",
+        "offset": 0,
+        "limit": 1000
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "focused": {
+    "evidence_id": "ev_c1ad317750449e97d0904bbe7aa5b5db3b4271aa2f99622b7f3a42d05c5f7cf7",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+    "parameters": {
+      "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+      "view": {
+        "kind": "summary"
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "Types, fields, methods, call edges, field accesses, and user strings cover only the selected declaring types; coverage describes that selection. Edge targets outside it keep their names but are not described.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "methods": {
+    "evidence_id": "ev_1e523c03a61b7e4630be39bfbb233aaac1d212a872b1b618256d8f67dc663866",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+    "parameters": {
+      "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+      "view": {
+        "kind": "managed-members",
+        "collection": "methods",
+        "offset": 0,
+        "limit": 1000
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "Types, fields, methods, call edges, field accesses, and user strings cover only the selected declaring types; coverage describes that selection. Edge targets outside it keep their names but are not described.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "fields": {
+    "evidence_id": "ev_25a97c3eba1448bc1c5a40c14340c0ace33962efdbb196543d4f911f0126eb28",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+    "parameters": {
+      "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+      "view": {
+        "kind": "managed-members",
+        "collection": "fields",
+        "offset": 0,
+        "limit": 1000
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "Types, fields, methods, call edges, field accesses, and user strings cover only the selected declaring types; coverage describes that selection. Edge targets outside it keep their names but are not described.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  },
+  "call_edges": {
+    "evidence_id": "ev_2bd01362f6ddd87810af9efe8f3874fb43793f19d2549b0b289ba80b090937c8",
+    "operation": "inspect_analysis_view",
+    "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+    "parameters": {
+      "parent_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+      "view": {
+        "kind": "managed-members",
+        "collection": "call_edges",
+        "offset": 0,
+        "limit": 1000
+      }
+    },
+    "limitations": [
+      "CIL instruction anchors are decoded from file-backed method bodies only; no target assembly is loaded or executed.",
+      "Exported types are reported from ExportedType rows as declared; forwarded types are not resolved in their implementing assemblies.",
+      "Member signatures decode ECMA-335 primitive, class, valuetype, generic instantiation, generic variable, pointer, byref, single-dimension and general array, function pointer, custom modifier, and typed reference forms; class and valuetype operands keep their encoded TypeDefOrRefOrSpec values, and unsupported forms such as vararg sentinels retain raw signature hashes.",
+      "Metadata tokens are build-local coordinates and are only meaningful with the reported artifact SHA-256 and MVID.",
+      "Types, fields, methods, call edges, field accesses, and user strings cover only the selected declaring types; coverage describes that selection. Edge targets outside it keep their names but are not described.",
+      "User strings are the #US literals loaded by ldstr in the inspected method bodies, with their own coverage; instruction anchors and normalized CIL digests keep their build-local tokens."
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source": "/home/jsh/rea-sticky-memo/Microsoft Sticky Notes Installer.exe",
+  "bytes": 813088,
+  "before_sha256_from_REA": "646f1719fcae077b5f1ed356d71baf552713c4c5f378bfdd5e04710f62e847f6",
+  "after_sha256": "646f1719fcae077b5f1ed356d71baf552713c4c5f378bfdd5e04710f62e847f6",
+  "unchanged": true,
+  "user_data_accessed": false,
+  "original_executed": false,
+  "excluded_prior_implementation": "Only_Codex_agent: not read or reused"
+}

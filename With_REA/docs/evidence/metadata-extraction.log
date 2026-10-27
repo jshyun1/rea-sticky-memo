@@ -1,0 +1,50 @@
+{
+  "evidence_id": "LOCAL-01",
+  "authority": "provided-artifact-bytes",
+  "method": "REA-derived static marker/length/raw-DEFLATE recovery; target never executed",
+  "basis_evidence_id": "ev_1c6dce445fbaa84e9f0b32671370b33de04eba9cdc4de1907a25f6b367a5e101",
+  "source": "/home/jsh/rea-sticky-memo/Microsoft Sticky Notes Installer.exe",
+  "bytes": 813088,
+  "sha256": "646f1719fcae077b5f1ed356d71baf552713c4c5f378bfdd5e04710f62e847f6",
+  "certificate_table": {
+    "offset": 783872,
+    "size": 29216
+  },
+  "tag_offset": 789739,
+  "tag": "MSStoreTag001",
+  "signature_offset": 789756,
+  "signature_size": 256,
+  "compressed_offset": 790016,
+  "compressed_size": 1756,
+  "compressed_sha256": "45af3fdc82f17eb3a910529d3fdbe1c4f47a1a0e3e78220949e678096c057fa7",
+  "decoded_size": 18275,
+  "decoded_sha256": "cbb17890b29362dd79d64f751aef093d8c13285c8779d672ea2951748353662a",
+  "signature_verified": false,
+  "observed_fields": {
+    "schema": 4,
+    "productId": "9NBLGGH4QGHW",
+    "pfns": [
+      "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe"
+    ],
+    "installerType": "WindowsUpdate",
+    "minOS": {
+      "x86": 2814750710366208,
+      "x64": 2814750710366208,
+      "ARM64": 2814750710366208,
+      "ARM": 2814750754275328
+    },
+    "autoUpdate": false,
+    "defaultLocale": "en-us",
+    "expires": 1793086429
+  },
+  "localization_count": 66,
+  "english": {
+    "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+    "publisher": "Microsoft Corporation",
+    "title": "Microsoft Sticky Notes"
+  },
+  "limitations": [
+    "Embedded claims only; RSA payload and Authenticode signatures are not verified.",
+    "No Store request, install, product launch, or note behavior was observed."
+  ]
+}

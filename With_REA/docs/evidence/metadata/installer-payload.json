@@ -1,0 +1,670 @@
+{
+  "arch": "",
+  "autoUpdate": false,
+  "catalogType": null,
+  "cid": "",
+  "defaultLocale": "en-us",
+  "excludedArchitects": [],
+  "expires": 1793086429,
+  "flights": null,
+  "installerType": "WindowsUpdate",
+  "isHarbor": false,
+  "launchArgs": null,
+  "localized": {
+    "en-us": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "fr-ca": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "af": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "am": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ar": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "az-latn-az": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "be": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "bg": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "bn-bd": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "bs": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ca": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "cs": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "da": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "de": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "el": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "es": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "es-mx": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "et": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "eu": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "fa": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "fi": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "fil": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "fr": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "gl": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "nb-no": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "he": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "hi": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "hr": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "hu": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "id": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "is": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "it": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ja": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "kk": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "km-kh": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "kn": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ko": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "lo": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "lt": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "lv": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "mk": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ml": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "pt-pt": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ms": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "nl": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "nn-no": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ro": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "pl": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "pt-br": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "ru": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sk": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sl": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sq": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sr-cyrl-rs": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sr-latn-rs": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sv": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "sw": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Madokezo ya Kubandika ya Microsoft"
+    },
+    "ta": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft ஒட்டுக் குறிப்புகள்"
+    },
+    "te": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft స్టిక్కీ నోట్స్"
+    },
+    "th": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "บันทึกย่อช่วยเตือนของ Microsoft"
+    },
+    "tr": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Yapışkan Notlar"
+    },
+    "uk": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Наліпки Microsoft"
+    },
+    "uz-latn-uz": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Qaydlar"
+    },
+    "vi": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft Sticky Notes"
+    },
+    "zh-hans": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft 便笺"
+    },
+    "zh-hant": {
+      "logo": "https://store-images.s-microsoft.com/image/apps.9812.13510798887395106.c059f161-f43c-4084-b47e-8036e0b7e1ae.b456746b-669b-49e9-bfd5-6183e2c7883f",
+      "publisher": "Microsoft Corporation",
+      "title": "Microsoft 自黏便箋"
+    }
+  },
+  "markets": [
+    "AD",
+    "AE",
+    "AF",
+    "AG",
+    "AI",
+    "AL",
+    "AM",
+    "AO",
+    "AQ",
+    "AR",
+    "AS",
+    "AT",
+    "AU",
+    "AW",
+    "AX",
+    "AZ",
+    "BA",
+    "BB",
+    "BD",
+    "BE",
+    "BF",
+    "BG",
+    "BH",
+    "BI",
+    "BJ",
+    "BL",
+    "BM",
+    "BN",
+    "BO",
+    "BQ",
+    "BR",
+    "BS",
+    "BT",
+    "BV",
+    "BW",
+    "BY",
+    "BZ",
+    "CA",
+    "CC",
+    "CD",
+    "CF",
+    "CG",
+    "CH",
+    "CI",
+    "CK",
+    "CL",
+    "CM",
+    "CN",
+    "CO",
+    "CR",
+    "CV",
+    "CW",
+    "CX",
+    "CY",
+    "CZ",
+    "DE",
+    "DJ",
+    "DK",
+    "DM",
+    "DO",
+    "DZ",
+    "EC",
+    "EE",
+    "EG",
+    "EH",
+    "ER",
+    "ES",
+    "ET",
+    "FI",
+    "FJ",
+    "FK",
+    "FM",
+    "FO",
+    "FR",
+    "GA",
+    "GB",
+    "GD",
+    "GE",
+    "GF",
+    "GG",
+    "GH",
+    "GI",
+    "GL",
+    "GM",
+    "GN",
+    "GP",
+    "GQ",
+    "GR",
+    "GS",
+    "GT",
+    "GU",
+    "GW",
+    "GY",
+    "HK",
+    "HM",
+    "HN",
+    "HR",
+    "HT",
+    "HU",
+    "ID",
+    "IE",
+    "IL",
+    "IM",
+    "IN",
+    "IO",
+    "IQ",
+    "IS",
+    "IT",
+    "JE",
+    "JM",
+    "JO",
+    "JP",
+    "KE",
+    "KG",
+    "KH",
+    "KI",
+    "KM",
+    "KN",
+    "KR",
+    "KW",
+    "KY",
+    "KZ",
+    "LA",
+    "LC",
+    "LI",
+    "LK",
+    "LR",
+    "LS",
+    "LT",
+    "LU",
+    "LV",
+    "LY",
+    "MA",
+    "MC",
+    "MD",
+    "ME",
+    "MF",
+    "MG",
+    "MH",
+    "MK",
+    "ML",
+    "MM",
+    "MN",
+    "MO",
+    "MP",
+    "MQ",
+    "MR",
+    "MS",
+    "MT",
+    "MU",
+    "MV",
+    "MW",
+    "MX",
+    "MY",
+    "MZ",
+    "NA",
+    "NC",
+    "NE",
+    "NF",
+    "NG",
+    "NI",
+    "NL",
+    "NO",
+    "NP",
+    "NR",
+    "NU",
+    "NZ",
+    "OM",
+    "PA",
+    "PE",
+    "PF",
+    "PG",
+    "PH",
+    "PK",
+    "PL",
+    "PM",
+    "PN",
+    "PS",
+    "PT",
+    "PW",
+    "PY",
+    "QA",
+    "RE",
+    "RO",
+    "RS",
+    "RU",
+    "RW",
+    "SA",
+    "SB",
+    "SC",
+    "SE",
+    "SG",
+    "SH",
+    "SI",
+    "SJ",
+    "SK",
+    "SL",
+    "SM",
+    "SN",
+    "SO",
+    "SR",
+    "ST",
+    "SV",
+    "SX",
+    "SZ",
+    "TC",
+    "TD",
+    "TF",
+    "TG",
+    "TH",
+    "TJ",
+    "TK",
+    "TL",
+    "TM",
+    "TN",
+    "TO",
+    "TR",
+    "TT",
+    "TV",
+    "TW",
+    "TZ",
+    "UA",
+    "UG",
+    "UM",
+    "US",
+    "UY",
+    "UZ",
+    "VA",
+    "VC",
+    "VE",
+    "VG",
+    "VI",
+    "VN",
+    "VU",
+    "WF",
+    "WS",
+    "YE",
+    "YT",
+    "ZA",
+    "ZM",
+    "ZW"
+  ],
+  "minOS": {
+    "x86": 2814750710366208,
+    "x64": 2814750710366208,
+    "ARM64": 2814750710366208,
+    "ARM": 2814750754275328
+  },
+  "ocid": null,
+  "pfns": [
+    "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe"
+  ],
+  "productId": "9NBLGGH4QGHW",
+  "ratings": {
+    "ESRB": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "E"
+    },
+    "PEGI": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "3"
+    },
+    "DJCTQ": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "L"
+    },
+    "USK": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "Everyone"
+    },
+    "IARC": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "3"
+    },
+    "PCBP": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "0"
+    },
+    "CSRR": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "G"
+    },
+    "Microsoft": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "3"
+    },
+    "CCC": {
+      "ageGroup": "Everyone",
+      "descriptors": [],
+      "disclaimers": [],
+      "interactives": [],
+      "level": "TE"
+    }
+  },
+  "referrer": "storeforweb",
+  "schema": 4,
+  "smode": true,
+  "startMenuMitigation": false,
+  "webId": null,
+  "webSessionId": null
+}

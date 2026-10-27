@@ -1,0 +1,13 @@
+Compiler: C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+Built: \\wsl.localhost\Ubuntu-22.04\home\jsh\rea-sticky-memo\With_REA\artifacts\StickyMemo.exe
+PASS CRUD, Unicode and restart
+PASS Snapshot isolation
+PASS Exclusive store ownership
+PASS Invalid files preserved
+PASS Atomic save failure preserves prior state
+PASS Backup is previous committed state
+PASS Oversize edit is rejected without loss
+PASS Two real UI processes: autosave, close, delete, restore
+PASS Packaged app startup and graceful exit
+RESULT: 9 passed, 0 failed
+Artifacts: \\wsl.localhost\Ubuntu-22.04\home\jsh\rea-sticky-memo\With_REA\artifacts\test-runs\20261027T073038-1e72b10a9be34123bbc91f830f2282bd
